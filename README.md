@@ -1,5 +1,9 @@
-## Hi there 👋
+## Bienvenidos 👋
 
+Soy estudiante de Ingeniería en Ciencias Computacionales, apasionado por mejorar mis habilidades en el ***Desarrollo Backend***.
+
+- :seedling: Actualmente estoy aprendiendo Desarrollo Backend con Python - Django y mejorando mis habilidades como Java Developer.
+- :mailbox: Como encontrarme: [LinkdIn](www.linkedin.com/in/leynder-sánchez-ortega)
 <!--
 **LeynderS/LeynderS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
