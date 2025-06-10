@@ -1,9 +1,32 @@
-## Bienvenidos 👋
+# 👋 Hola, soy Leynder
 
-Soy estudiante de Ingeniería en Ciencias Computacionales, apasionado por mejorar mis habilidades en el ***Desarrollo Backend***.
+Soy estudiante de Ingeniería en Ciencias Computacionales, con especial interés en el desarrollo backend y tecnologías de la nube.
 
-- :seedling: Actualmente estoy aprendiendo Desarrollo Backend con Python - Django y mejorando mis habilidades como Java Developer.
-- :mailbox: Como encontrarme: [LinkdIn](www.linkedin.com/in/leynder-sánchez-ortega)
+## 🌿 Sobre mí
+Me apasiona crear soluciones backend robustas y escalables, principalmente con **Java** y **Spring Boot**. También estoy explorando el desarrollo con **Python** y **Django**. Me encanta el mundo del **cloud computing** (especialmente AWS) y estoy aprendiendo sobre arquitecturas basadas en **microservicios** para diseñar sistemas modernos y eficientes.
+
+Además, me gusta ampliar mi conocimiento en frontend con **React**, para poder entender y aportar mejor al desarrollo full stack.
+
+## 🛠 Tecnologías que manejo o estoy aprendiendo
+
+**Frontend:**  
+JavaScript | React (en aprendizaje)
+
+**Backend:**  
+Java | Spring Boot | Python | Django | Microservicios
+
+**Bases de datos:**  
+PostgreSQL
+
+**Cloud & DevOps:**  
+AWS (EC2, S3, Lambda) | Docker | Git | GitHub
+
+## 📫 ¿Quieres contactarme?  
+[LinkedIn](www.linkedin.com/in/leynder-sánchez-ortega) | [Email](leynder.elian@gmail.com)
+
+---
+
+Estoy abierto a conectar, compartir ideas y trabajar en proyectos interesantes.
 <!--
 **LeynderS/LeynderS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
