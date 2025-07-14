@@ -1,43 +1,47 @@
-# 👋 Hola, soy Leynder
+<h1 align="center">Hola, soy Leynder 👋</h1>
 
-Soy estudiante de Ingeniería en Ciencias Computacionales, con especial interés en el desarrollo backend y tecnologías de la nube.
-
-## 🌿 Sobre mí
-Me apasiona crear soluciones backend robustas y escalables, principalmente con **Java** y **Spring Boot**. También estoy explorando el desarrollo con **Python** y **Django**. Me encanta el mundo del **cloud computing** (especialmente AWS) y estoy aprendiendo sobre arquitecturas basadas en **microservicios** para diseñar sistemas modernos y eficientes.
-
-Además, me gusta ampliar mi conocimiento en frontend con **React**, para poder entender y aportar mejor al desarrollo full stack.
-
-## 🛠 Tecnologías que manejo o estoy aprendiendo
-
-**Frontend:**  
-JavaScript | React (en aprendizaje)
-
-**Backend:**  
-Java | Spring Boot | Python | Django | Microservicios
-
-**Bases de datos:**  
-PostgreSQL
-
-**Cloud & DevOps:**  
-AWS (EC2, S3, Lambda) | Docker | Git | GitHub
-
-## 📫 ¿Quieres contactarme?  
-[LinkedIn](www.linkedin.com/in/leynder-sánchez-ortega) | [Email](leynder.elian@gmail.com)
+<h3 align="center">Estudiante de Ingeniería en Ciencias Computacionales | Apasionado por el Backend y Cloud Computing ☁️</h3>
 
 ---
 
-Estoy abierto a conectar, compartir ideas y trabajar en proyectos interesantes.
+## 🌱 Sobre mí
+
+🎓 Soy estudiante de Ingeniería en Ciencias Computacionales, y me especializo en el desarrollo de soluciones **backend** escalables y eficientes.
+
+🚀 Actualmente trabajo con **Java + Spring Boot** y me estoy adentrando cada vez más en el ecosistema **cloud**, especialmente con **AWS**.
+
+🐍 También desarrollo con **Python** y **FastApi**, y estoy explorando **React** para comprender mejor el desarrollo **fullstack**.
+
+🧠 Interesado en **microservicios**, buenas prácticas de ingeniería de software, y arquitecturas modernas.
+
+---
+
+## 🛠 Tecnologías que uso o estoy aprendiendo
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,javascript" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,aws,git,github,gitlab" height="40" />
+</div>
+
+---
 <!--
-**LeynderS/LeynderS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeynderS&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false" alt="Leynder GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeynderS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- -->
+
+## 🤝 ¿Te gustaría colaborar?
+
+Estoy abierto a participar en proyectos backend, integraciones con servicios en la nube o sistemas distribuidos.
+
+📬 **Contáctame**:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leynder%20Sánchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leynder-sánchez-ortega)
+[![Email](https://img.shields.io/badge/Gmail-leynder.elian@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leynder.elian@gmail.com)
+
+---
