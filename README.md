@@ -1,27 +1,41 @@
-<h1 align="center">Hola, soy Leynder 👋</h1>
+<h1 align="center">Hi, I'm Leynder 👋</h1>
 
-<h3 align="center">Estudiante de Ingeniería en Ciencias Computacionales | Apasionado por el Backend y Cloud Computing ☁️</h3>
+<h3 align="center">Computer Science Engineer | Backend & Cloud Computing ☁️</h3>
 
----
-
-## 🌱 Sobre mí
-
-🎓 Soy estudiante de Ingeniería en Ciencias Computacionales, y me especializo en el desarrollo de soluciones **backend** escalables y eficientes.
-
-🚀 Actualmente trabajo con **Java + Spring Boot** y me estoy adentrando cada vez más en el ecosistema **cloud**, especialmente con **AWS**.
-
-🐍 También desarrollo con **Python** y **FastApi**, y estoy explorando **React** para comprender mejor el desarrollo **fullstack**.
-
-🧠 Interesado en **microservicios**, buenas prácticas de ingeniería de software, y arquitecturas modernas.
+<p align="center">
+  Building scalable, secure backend systems with Java, Spring Boot and AWS.
+</p>
 
 ---
 
-## 🛠 Tecnologías que uso o estoy aprendiendo
+## 🌱 About me
+
+🎓 Computer Science Engineer from **Universidad de Especialidades Espíritu Santo (UEES)**, with a strong focus on designing and building scalable, maintainable **backend** solutions.
+
+🚀 I work daily with **Java + Spring Boot** (Spring Security, JWT, Spring Data JPA) and I'm deepening my skills in the **cloud** ecosystem, especially **AWS**.
+
+🌐 I build fullstack applications with **React**, **React Native** and **Astro**.
+
+🧠 Interested in **hexagonal architecture**, **microservices**, SOLID principles, design patterns, and solid testing practices.
+
+---
+
+## 🏅 Certifications
+
+- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services
+- 🎓 AWS Academy Graduate — Machine Learning Foundations & Cloud Foundations
+- ☕ Java Bootcamp — Globant
+- 🐙 GitHub Foundations — GitHub
+- 🌎 English B2 (ECCE)
+
+---
+
+## 🛠 Tech stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" height="40" />
-  <img src="https://skillicons.dev/icons?i=react,javascript" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres,docker,aws,git,github,gitlab" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,spring" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,astro,javascript" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,aws,git,github,gitlab" height="40" />
 </div>
 
 ---
@@ -35,13 +49,14 @@
 
 --- -->
 
-## 🤝 ¿Te gustaría colaborar?
+## 🤝 Let's collaborate
 
-Estoy abierto a participar en proyectos backend, integraciones con servicios en la nube o sistemas distribuidos.
+I'm open to backend projects, cloud service integrations, and distributed systems work.
 
-📬 **Contáctame**:
+📬 **Get in touch**:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leynder%20Sánchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leynder-sánchez-ortega)
-[![Email](https://img.shields.io/badge/Gmail-leynder.elian@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leynder.elian@gmail.com)
+[![Website](https://img.shields.io/badge/Website-leyndersanchez.me-0A66C2?style=for-the-badge&logo=astro&logoColor=white)](https://leyndersanchez.me)
+[![Email](https://img.shields.io/badge/Email-hello@leyndersanchez.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@leyndersanchez.me)
 
 ---
